@@ -1,0 +1,26 @@
+body{
+    background-color: red;
+}
+
+.button {
+    background-color: rgb(76, 99, 175); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .nav{
+      background-color: blueviolet;
+      height: auto;
+      width: 80%;
+      margin: auto;
+
+  }
+
+  .title{
+      background-image: url(img/backgroud.jpg);
+  }

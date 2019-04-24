@@ -1,10 +1,12 @@
 body{
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(158, 172, 171);
 
 }
 
 .button {
+
     border-radius: 5px;
     background-color: rgb(76, 99, 175);
     border: none;
@@ -15,22 +17,23 @@ body{
     display: inline-block;
     font-size: 16px;
 
-  }
+}
 
-  .button:hover{
+.button:hover{
 
     background-color: rgb(99, 128, 226);
 
-  }
+}
 
-  nav{
+nav{
 
     padding: 5px 0 5px 0 ;
     background-color: rgba(36, 36, 36);
     height: 20px;
     width: 80%;
     margin: auto;
-  }
+}
+
 nav h4{
 
     margin: 0 0 0 30px;
@@ -74,7 +77,6 @@ nav ul{
     margin: auto;
 
 }
-
 
 .title{
 
@@ -168,6 +170,7 @@ h1{
     padding: 50px 0 60px 0; 
 
 }
+
 .section_2 .paragraphe{
 
     padding: 80px;
@@ -204,6 +207,7 @@ footer{
 }
 
 footer h2{
+
     font-size: 30px;
     text-align: center;
     padding: 30px;
@@ -227,13 +231,17 @@ footer img{
 }
 
 footer .photo1{
+
     height: auto ;
     width: 950px;
     margin: auto;
+
 }
 
 footer .photo2{
+
     height: auto ;
     width: 950px;
     margin: auto;
+
 }

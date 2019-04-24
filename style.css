@@ -127,3 +127,31 @@ h1{
 
     padding: 0 40px 0 0;
 }
+
+.section_2{
+
+    margin: auto;
+    height: 700px;
+    width: 80%;
+    background-color: rgb(204, 206, 206);
+
+
+}
+
+.section_2 h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 
+}
+.section_2 .paragraphe{
+    height: auto;
+    width: 50%;
+    margin: auto;
+}
+
+.icon {
+    height: 80px;
+    width: 400px;
+    float: left;
+    padding: 50px;
+}

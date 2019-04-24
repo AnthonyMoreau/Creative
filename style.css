@@ -5,7 +5,7 @@ body{
 }
 
 .button {
-
+    border-radius: 5px;
     background-color: rgb(76, 99, 175);
     border: none;
     color: rgb(255, 255, 255);
@@ -14,6 +14,12 @@ body{
     text-decoration: none; 
     display: inline-block;
     font-size: 16px;
+
+  }
+
+  .button:hover{
+
+    background-color: rgb(99, 128, 226);
 
   }
 
@@ -47,12 +53,27 @@ nav ul li a, nav h4 a{
 
 }
 
+nav ul li a:hover{
+
+    color: rgb(187, 187, 187);
+
+}
+
 nav ul{
 
     height: 12px;
     width: 500px;
     padding: 0 0 0 1200px;
-  }
+}
+
+.separation{
+
+    height: 2px;
+    width: 50%;
+    background-color: rgb(68, 68, 68, 0.2);
+    margin: auto;
+
+}
 
 
 .title{
@@ -101,6 +122,7 @@ h1{
 }
 
 .section_1 h2{
+
     height: auto;
     width: auto;
     padding: 80px 0 50px 0;
@@ -130,28 +152,43 @@ h1{
 
 .section_2{
 
-    margin: auto;
-    height: 700px;
-    width: 80%;
     background-color: rgb(204, 206, 206);
-
+    margin: auto;
+    height: 650px;
+    width: 80%;
 
 }
 
 .section_2 h2{
+
     font-size: 30px;
     text-align: center;
-    padding: 30px 
+    padding: 50px 0 60px 0; 
+
 }
 .section_2 .paragraphe{
+
+    padding: 80px;
     height: auto;
     width: 50%;
     margin: auto;
+
+}
+
+.section_2 .icon h3 {
+
+    margin: 15px;
+    font-size: 20px;
+    font-weight: 700;
+
 }
 
 .icon {
+
+    text-align: center;
     height: 80px;
     width: 400px;
     float: left;
     padding: 50px;
+
 }

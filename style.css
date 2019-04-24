@@ -126,6 +126,14 @@ h1{
 
 }
 
+.section_1 .about_us {
+    text-align: center;
+    margin: auto;
+    height: auto;
+    width: auto;
+
+}
+
 .section_1 h2{
 
     height: auto;
@@ -188,6 +196,13 @@ h1{
     margin: 15px;
     font-size: 20px;
     font-weight: 700;
+
+}
+
+.section_2 i {
+    
+    color: rgb(241, 142, 28);
+    font-size: 20px;
 
 }
 

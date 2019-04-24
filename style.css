@@ -18,6 +18,7 @@ body{
   }
 
   nav{
+    padding: 5px 0 0 0 ;
     background-color: rgba(36, 36, 36);
     height: 20px;
     width: 80%;
@@ -60,5 +61,26 @@ nav ul{
     background-image: url(img/backgroud.jpg);
     background-size: cover;
     text-align: center;
+  
+}
+.title img{
+  height: 300px ;
+  width: 300px ;
+  padding: 50px;
+}
 
-  }
+h1{
+  font-size: 30px; 
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  padding:40px 0 30px 0;
+
+}
+
+.title p{ 
+  font-size: 20px;
+  height: auto;
+  width: auto;
+  padding:0 0 80px 0;
+}
